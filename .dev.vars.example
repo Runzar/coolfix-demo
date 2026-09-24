@@ -1,0 +1,4 @@
+# Μόνο για δοκιμή στον υπολογιστή σου (npx wrangler dev).
+# Μετονόμασέ το σε .dev.vars και ΜΗΝ το ανεβάσεις στο GitHub.
+ADMIN_PASSWORD=dokimi123
+SESSION_SECRET=bale-edo-ena-poly-makry-tyxaio-keimeno-toulaxiston-40-xaraktires
